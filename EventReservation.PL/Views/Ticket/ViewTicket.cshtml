@@ -1,0 +1,24 @@
+﻿@model QrCodeViewModel
+@{
+    ViewData["Title"] = "ViewTicket";
+    
+}
+
+<h1>Your Ticket Qr Code</h1>
+
+<div class="row">
+    <div class="col-lg-6 m-auto">
+        @if (Model.QrCodeImageUrl != "")
+        {
+            <div class="w-50 m-auto">
+                <img src="@Model.QrCodeImageUrl" alt="Ticket QR Code" class="img-fluid w-100 h-100 mb-3" />
+                <a href="@Model.QrCodeImageUrl" class="btn btn-primary w-100 " download="QRCode.png">Download</a>
+            </div>
+        }
+        
+
+    </div>
+</div>
+
+
+

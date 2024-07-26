@@ -1,0 +1,15 @@
+C:\Users\Emad\source\repos\EventReservationProject\EventReservation.BLL\bin\Debug\net6.0\EventReservation.BLL.deps.json
+C:\Users\Emad\source\repos\EventReservationProject\EventReservation.BLL\bin\Debug\net6.0\EventReservation.BLL.dll
+C:\Users\Emad\source\repos\EventReservationProject\EventReservation.BLL\bin\Debug\net6.0\EventReservation.BLL.pdb
+C:\Users\Emad\source\repos\EventReservationProject\EventReservation.BLL\bin\Debug\net6.0\EventReservation.DAL.dll
+C:\Users\Emad\source\repos\EventReservationProject\EventReservation.BLL\bin\Debug\net6.0\EventReservation.DAL.pdb
+C:\Users\Emad\source\repos\EventReservationProject\EventReservation.BLL\obj\Debug\net6.0\EventReservation.BLL.csproj.AssemblyReference.cache
+C:\Users\Emad\source\repos\EventReservationProject\EventReservation.BLL\obj\Debug\net6.0\EventReservation.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emad\source\repos\EventReservationProject\EventReservation.BLL\obj\Debug\net6.0\EventReservation.BLL.AssemblyInfoInputs.cache
+C:\Users\Emad\source\repos\EventReservationProject\EventReservation.BLL\obj\Debug\net6.0\EventReservation.BLL.AssemblyInfo.cs
+C:\Users\Emad\source\repos\EventReservationProject\EventReservation.BLL\obj\Debug\net6.0\EventReservation.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Emad\source\repos\EventReservationProject\EventReservation.BLL\obj\Debug\net6.0\EventReservation.BLL.csproj.CopyComplete
+C:\Users\Emad\source\repos\EventReservationProject\EventReservation.BLL\obj\Debug\net6.0\EventReservation.BLL.dll
+C:\Users\Emad\source\repos\EventReservationProject\EventReservation.BLL\obj\Debug\net6.0\refint\EventReservation.BLL.dll
+C:\Users\Emad\source\repos\EventReservationProject\EventReservation.BLL\obj\Debug\net6.0\EventReservation.BLL.pdb
+C:\Users\Emad\source\repos\EventReservationProject\EventReservation.BLL\obj\Debug\net6.0\ref\EventReservation.BLL.dll

@@ -1,0 +1,23 @@
+﻿@model EventsViewModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Create Page </h4>
+<br />
+<br/> 
+
+<form asp-controller="Events" asp-action="Create" enctype="multipart/form-data">
+    <partial name="EventsParialViews/CreatEditPartialView" model="Model" />
+    <input type ="submit" value="Create" class="btn btn-primary"/>
+    <a asp-controller="Events" asp-action="Index" class="btn btn-light">Back to List</a>
+</form> 
+
+@section ValidationSection
+ {
+    <partial name="_ValidationScriptsPartial" />
+
+}

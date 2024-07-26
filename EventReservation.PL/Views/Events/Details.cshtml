@@ -1,0 +1,21 @@
+﻿@model EventsViewModel
+
+    @{
+    ViewData["Title"] = "Details";
+}
+<h1>Details</h1>
+<br />
+<br />
+
+<div asp-controller="Events" asp-action="Details">
+    <partial name="EventsParialViews/DetailsDeletePartialView" model="Model" />
+    <a asp-controller="Events" asp-action="Edit" asp-route-id="@Model.ID" class="btn btn-warning">Edit</a>
+
+    <td>
+        <a asp-controller="Ticket" asp-action="BuyTicket" asp-route-id="@Model.ID" class="btn btn-info">
+            <i class="fas fa-eye"></i>Buy Tickets
+        </a>
+    </td>
+
+    <a asp-controller="Events" asp-action="Index" class="btn btn-light">Back to List</a>
+</div> 

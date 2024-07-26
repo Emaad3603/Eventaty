@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\EventReservation.PL.props" />
+</Project>
